@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/farm-product/static/css/main.d9f2ec5a.css",
-    "main.js": "/farm-product/static/js/main.726fd06d.js",
+    "main.js": "/farm-product/static/js/main.f3b20cc0.js",
     "static/media/Rectangle-2-1.png": "/farm-product/static/media/Rectangle-2-1.02277790eb469fdfdf76.png",
     "static/media/Rectangle-2.png": "/farm-product/static/media/Rectangle-2.04e27d95226291e898aa.png",
     "static/media/honey-5.jpg": "/farm-product/static/media/honey-5.a7573737a797d2dfb4f2.jpg",
@@ -16,10 +16,10 @@
     "index.html": "/farm-product/index.html",
     "static/media/checkbox.svg": "/farm-product/static/media/checkbox.047a592dff67902f7ba7b1a49a6a89c8.svg",
     "main.d9f2ec5a.css.map": "/farm-product/static/css/main.d9f2ec5a.css.map",
-    "main.726fd06d.js.map": "/farm-product/static/js/main.726fd06d.js.map"
+    "main.f3b20cc0.js.map": "/farm-product/static/js/main.f3b20cc0.js.map"
   },
   "entrypoints": [
     "static/css/main.d9f2ec5a.css",
-    "static/js/main.726fd06d.js"
+    "static/js/main.f3b20cc0.js"
   ]
 }
