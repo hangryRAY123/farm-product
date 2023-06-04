@@ -10,8 +10,4 @@ export const ProductSwiper = styled(Swiper)`
   .swiper-slide {
     flex-shrink: 1;
   }
-
-  .swiper-scrollbar-drag:first-child {
-    display: none;
-  }
 `;

@@ -19,9 +19,10 @@ export const ProductList = ({ products, setSwiperRef }) => {
           direction="vertical"
           slidesPerView="auto"
           scrollbar={{ draggable: true }}
+          dragSize={50}
           mousewheel
           pagination={{
-            type: 'fanction',
+            type: 'fraction',
           }}
         >
           {products.map((e) => (
